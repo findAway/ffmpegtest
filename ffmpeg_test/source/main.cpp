@@ -34,5 +34,7 @@ int main(int argc, char* argv[])
 	avformat_close_input(&pFormatCtx);
 	avformat_free_context(pFormatCtx);
 
+	getchar();
+
 	return 0;
 }

@@ -1,0 +1,9 @@
+## Ignore files
+*.o
+
+ipch/
+#Debug/
+*/Debug/
+
+*.opensdf
+*.sdf
